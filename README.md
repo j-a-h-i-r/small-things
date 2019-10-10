@@ -10,3 +10,6 @@ In data transmission, an algorithm for sending packets (frames) is **Sliding Win
 
 ### [School Personnel Management](https://github.com/j-a-h-i-r/small-things/tree/master/Basic%20School%20Personnel%20List)
 This was an assignment for CSE107 (OOP course), that's why it uses OOP things :P. It's fairly straightforward. You can save information about school teacher and students in a text file (not the most efficient, I know) and view/search on them. There is option to add new info too.
+
+### [Hangman](https://github.com/j-a-h-i-r/small-things/tree/master/Hangman)
+Play a game of hangman in console. Choose a category, you'll get a random word from that category. Now guess a letter. If its right, all occurances of this letter will get filled in the word. If it's wrong, you'll lose a life. Continue, untill have no life or have guessed all the letters correctly.

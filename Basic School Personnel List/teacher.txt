@@ -1,0 +1,10 @@
+Charles Xavier
+1
+Stephen Hawking
+2
+Isaac Newton
+2
+Denis Ritchie
+4
+Alex Ferguson
+5

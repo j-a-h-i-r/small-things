@@ -1,5 +1,5 @@
 # small-things
-This repo contains some small code examples. There is probably absolutely nothing to learn from here except maybe for necomer programmers. I worked on them on different stages of my programming journey. This repo will serve as sort of an archive for some very little things of mine.
+This repo contains some small code examples. There is probably absolutely nothing to learn from here except maybe for newcomer programmers. I worked on them on different stages of my programming journey. This repo will serve as sort of an archive for some very little things of mine.
 
 ---
 
@@ -13,3 +13,6 @@ This was an assignment for CSE107 (OOP course), that's why it uses OOP things :P
 
 ### [Hangman](https://github.com/j-a-h-i-r/small-things/tree/master/Hangman)
 Play a game of hangman in console. Choose a category, you'll get a random word from that category. Now guess a letter. If its right, all occurances of this letter will get filled in the word. If it's wrong, you'll lose a life. Continue, untill have no life or have guessed all the letters correctly.
+
+### [Generate Image from Text](https://github.com/j-a-h-i-r/small-things/tree/master/generateImageFromText)
+Generate an image in `png` format from a given text. 
